@@ -1,3 +1,5 @@
+'''Obviosly don't need imports'''
+'''Obvious function does obvious thing'''
 def main():
     print("Hello, world!")
 
