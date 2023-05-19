@@ -1,5 +1,5 @@
 '''Obviosly don't need imports'''
-def main(): 
+def main():
     '''Doc-string to get pylint to shut up'''
     print("Hello, world!")
 
